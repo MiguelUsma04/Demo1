@@ -5,6 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyConsoleApp", "MyConsoleApp", "{F731B1E6-E267-441A-8A5F-672C510DEA96}"
 	ProjectSection(SolutionItems) = preProject
+		GlobalUsings.cs = GlobalUsings.cs
 		MyConsoleApp.csproj = MyConsoleApp.csproj
 		Program.cs = Program.cs
 	EndProjectSection
