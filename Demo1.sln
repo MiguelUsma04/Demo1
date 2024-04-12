@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyConsoleApp", "MyConsoleAp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyLibrary", "MyLibrary", "{F9FBDB67-7F30-4A74-84A7-06091E084D99}"
 	ProjectSection(SolutionItems) = preProject
+		FiggleWriter.cs = FiggleWriter.cs
 		MessageWriter.cs = MessageWriter.cs
 	EndProjectSection
 EndProject
